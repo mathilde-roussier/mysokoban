@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
-LARGEUR = 600
-HAUTEUR = 600
+LARGEUR = 576
+HAUTEUR = 576
 TITRE = "My Sokoban"
 VIDE = 0
 MUR = 1
