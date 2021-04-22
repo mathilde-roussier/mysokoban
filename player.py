@@ -1,5 +1,4 @@
 import pygame as pg
-from grille import Grille
 from config import *
 
 
